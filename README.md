@@ -1,9 +1,16 @@
-# Hi, I'm Heather Marie Culligan 👋  
-**Data Scientist | Python & SQL | Streamlit Dashboards | Problem Solver with Healthcare Experience**
+# 👋 Hi, I'm Heather Marie!
 
-Welcome to my GitHub! I’m a data scientist with a background in pharmacy operations, recently completing a rigorous data science certificate program focused on machine learning, SQL, business analytics, and real-world project development.
+**Data Science & Analytics | Python & SQL | Business Intelligence | Operations Leadership | Process Improvement**
 
-I’m passionate about solving practical problems through clean, interpretable models and user-friendly tools. My work spans customer churn prediction, time series forecasting, computer vision, and interactive dashboard development.
+Welcome to my GitHub!
+
+I'm a data science professional with a background in pharmacy operations, team leadership, and process improvement. I hold a Data Science certificate from TripleTen, where I developed practical skills in Python, SQL, machine learning, statistical analysis, and data visualization.
+
+My experience combines technical problem-solving with real-world operational leadership, including workflow optimization, performance monitoring, data accuracy, and developing scalable processes.
+
+My projects explore predictive modeling, customer churn analysis, time series forecasting, computer vision, and interactive dashboards using Streamlit.
+
+I'm particularly interested in using data and technology to improve operational efficiency, support informed decision-making, and solve meaningful business challenges.
 
 ---
 
